@@ -31,8 +31,6 @@
 
 - ☁️ I've keen interest in backend development.
 
-- 📫 Feel free to reach me out **tomer1452002@gmail.com**
-
 <!--Intro end-->
 
 
