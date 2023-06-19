@@ -2,11 +2,6 @@
 
 #### I'm Tomer - Junior Software Developer 🐧
 
-## Contact me:
-[<img alt="LinkedIn Link" width="30px" src="https://user-images.githubusercontent.com/104992892/223940207-75cc968e-3f13-4828-b371-896c848bd6d4.png" />](https://www.linkedin.com/in/tomer-abokarat-8958b6205/)
-&nbsp;
-[<img alt="Mail Link" width="30px" src="https://user-images.githubusercontent.com/104992892/223945350-dea569fa-1854-4801-b741-b6ee5223bcab.png" />](mailto:tomer1452002@gmail.com)
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -23,6 +18,12 @@
 - ☁️ I've keen interest in backend development.
 
 <!--Intro end-->
+
+
+## Contact me:
+[<img alt="LinkedIn Link" width="30px" src="https://user-images.githubusercontent.com/104992892/223940207-75cc968e-3f13-4828-b371-896c848bd6d4.png" />](https://www.linkedin.com/in/tomer-abokarat-8958b6205/)
+&nbsp;
+[<img alt="Mail Link" width="30px" src="https://user-images.githubusercontent.com/104992892/223945350-dea569fa-1854-4801-b741-b6ee5223bcab.png" />](mailto:tomer1452002@gmail.com)
 
 
 <!--- stats & Trophy (start) -->
