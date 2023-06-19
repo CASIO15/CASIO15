@@ -1,6 +1,6 @@
 # Hello there 👋
 
-#### I'm Tomer - Junior Software Developer 🐧
+#### I'm Tomer - Junior Software Developer ༼ つ ◕_◕ ༽つ
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
