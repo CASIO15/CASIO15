@@ -73,7 +73,3 @@
   <img  src="https://github.com/casio15/casio15/blob/output/github-contribution-grid-snake.svg"
        alt="snake" /></a>
 </div>
-
-Credit: [1010nishant](https://github.com/1010nishant)
-
-Last Edited on: 29/4/2023
