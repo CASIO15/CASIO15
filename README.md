@@ -1,22 +1,11 @@
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Tomer</h1></summary>
-  </ul>
-</div>
+# Hello there 👋
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+#### I'm Tomer - Junior Software Developer 🐧
 
-<!--icons and links-->
-<p>
-<a href="https://www.linkedin.com/in/tomer-abokarat-8958b6205/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-</p>
+## Contact me:
+[<img alt="LinkedIn Link" width="30px" src="https://user-images.githubusercontent.com/104992892/223940207-75cc968e-3f13-4828-b371-896c848bd6d4.png" />](https://www.linkedin.com/in/tomer-abokarat-8958b6205/)
+&nbsp;
+[<img alt="Mail Link" width="30px" src="https://user-images.githubusercontent.com/104992892/223945350-dea569fa-1854-4801-b741-b6ee5223bcab.png" />](mailto:tomer1452002@gmail.com)
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
