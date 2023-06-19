@@ -5,14 +5,6 @@
   </ul>
 </div>
 
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/casio15/casio15/blob/output/github-contribution-grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -87,6 +79,13 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/tomer-abokarat-8958b6205/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </p>
+
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/casio15/casio15/blob/output/github-contribution-grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 Credit: [1010nishant](https://github.com/1010nishant)
 
