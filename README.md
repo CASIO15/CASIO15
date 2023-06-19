@@ -46,8 +46,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=casio15&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=casio15&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="casio15" /></p>
   </td>
 </tr>
 </table>
