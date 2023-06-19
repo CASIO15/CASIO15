@@ -25,6 +25,8 @@
 
 
 <!--Intro start-->
+- 👨‍🎓 I'm a Computer Science student 
+ 
 - 🔭 I’m currently learning **AWS, Nodejs, Nestjs, REST, Graphql**
 
 - ☁️ I've keen interest in backend development.
