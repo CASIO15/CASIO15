@@ -15,7 +15,7 @@
  
 - 🔭 I’m currently learning **AWS, Nodejs, Nestjs, REST, Graphql**.
 
-- ☁️ I have a keen interest in backend development.
+- ☁️ I have keen interest in backend development.
 
 <!--Intro end-->
 
